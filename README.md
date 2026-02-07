@@ -3,7 +3,7 @@
 A simple and clean web application to search GitHub users and view their basic profile information using the GitHub API.
 
 🌐 **Live Demo:**  
-👉 https://github-profile-finder-cyan-iota.vercel.app/
+👉 [https://github-profile-finder-cyan-iota.vercel.app/](https://mim-github-profile-finder.vercel.app/)
 
 ---
 
